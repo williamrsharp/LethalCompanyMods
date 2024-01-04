@@ -1,0 +1,115 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (11/13/2023 1:14:36 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 10 plugins to load
+[Info   :   BepInEx] Loading [BiggerLobby 2.5.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [BrutalCompanyPlus 3.5.1]
+[Warning:BrutalCompanyPlus] Loaded Brutal Company Plus and applying patches.
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.3.1]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [LC_API 1.5.0]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [Jump Delay Patch 0.0.0.1]
+[Info   :Jump Delay Patch] Plugin JumpDelayPatch is loaded!
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.2.2]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Late Company 1.0.9]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Mimics 2.0.0]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Info   :BrutalCompanyPlus] Attempting to Initialize BrutalPlus
+[Warning:BrutalCompanyPlus] Brutal Plus is Awake
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 2 AssetBundles to load!
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animationsbundle
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animatorbundle
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Message:    LC_API] server pre-setup success
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\50 Cent - Candy Shop (Lyrics) ft. Olivia.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\50 Cent - In Da Club (Lyrics).mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\CBS College Football Theme High Quality.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\CBS NCAA March Madness Theme (2021).mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Creed_-_Higher.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\El Sonidito.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Frizk - ALL MY FELLAS (Lyrics).mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\GTA San Andreas Theme Song Full ! !.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Halo 2 Theme song.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Let It Go - Frozen lyrics (FULL SONG).mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Panjabi_MC_-_Mundian_To_Bach_Ke.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Phineas_and_Ferb.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Simple_Plan_-_Whats_New_Scooby_Doo.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.mp3!
+[Info   :Custom Boombox Music] Loading E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Taylor_Swift_-_You_Belong_With_Me_Taylors_Version.mp3!
+[Warning:BrutalCompanyPlus] Modifying the Starting Quota Values based on Config
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\50 Cent - Candy Shop (Lyrics) ft. Olivia.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\50 Cent - In Da Club (Lyrics).mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\CBS College Football Theme High Quality.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\CBS NCAA March Madness Theme (2021).mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Creed_-_Higher.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\El Sonidito.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Frizk - ALL MY FELLAS (Lyrics).mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\GTA San Andreas Theme Song Full ! !.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Halo 2 Theme song.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Let It Go - Frozen lyrics (FULL SONG).mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Panjabi_MC_-_Mundian_To_Bach_Ke.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Phineas_and_Ferb.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Simple_Plan_-_Whats_New_Scooby_Doo.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.mp3
+[Info   :Custom Boombox Music] Loaded E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Taylor_Swift_-_You_Belong_With_Me_Taylors_Version.mp3
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning:    LC_API] Asking all other players for their mod list..
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy

@@ -1,0 +1,24 @@
+12/30/2023 10:36:13 PM: ---Start of Session---
+
+12/30/2023 10:39:40 PM: ---End of Session---
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Experimentation: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Assurance: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Vow: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, March: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Rend: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Dine: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Offense: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:12:50 PM: Updated configuration for CustomLevelRarities, Titan: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 7:13:01 PM: ---Start of Session---
+
+1/3/2024 7:13:53 PM: ---End of Session---
+
